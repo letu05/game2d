@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c0ab5c3b5fe4f14ca94f4b9ca328e7b, type: 3}
   m_Name: Item
   m_EditorClassIdentifier: Assembly-CSharp::Item
-  prefab: {fileID: 0}
-  itemName: 
-  icon: {fileID: 0}
+  prefab: {fileID: 2339211056962517688, guid: 1c6d78240d83337459112120bd3013ec, type: 3}
+  itemName: Player
+  icon: {fileID: 21300000, guid: 059e3327ecedf5a4d8be2de1a35fdf71, type: 3}
   id: 0
